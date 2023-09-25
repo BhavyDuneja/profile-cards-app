@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.profile-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.profile-pic {
+  max-width: 100%;
+  border-radius: 50%;
+}
